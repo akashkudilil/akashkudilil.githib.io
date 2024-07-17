@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+<header>
+   <div style="text-align: center;">
+    <img src="./AkashProfessionalPic.JPG" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
+   </div>
+</header>
+
+<section>
+   <p><strong>Accomplished senior executive in the bank and mortgage industry</strong><br>
+      With over 28 years of experience, I bring extensive expertise in information technology, specifically within the 
+      banking and mortgage sectors. My career includes 14 years of leading diverse project teams, ranging from 16 to 97 
+      members, across multiple technologies and business domains.
+   </p>
+   <strong>Key Areas of Expertise</strong>
+   <ul style="list-style-type:circle;">
+      <li><strong>Technology Strategy & Transformation:</strong> Recognized for my proficiency in developing and 
+         implementing technology strategies that drive business growth and innovation.
+      </li>
+   </ul>
+ </section>
+
+<hr>
+
+<section>
+   <h2>Work Experience</h2>
+   
+</section>
+   
+   
